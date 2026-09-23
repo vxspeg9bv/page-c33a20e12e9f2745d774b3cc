@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0ae284708fa1c61dea21c366",
+  "owner": "vxspeg9bv",
+  "repo": "page-c33a20e12e9f2745d774b3cc",
+  "title": "放弃(Fangqi)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c33a20e12e9f2745d774b3cc",
+      "a": "放弃(Fangqi)",
+      "b": "机场官网线路发布页",
+      "entity": "放弃(Fangqi)",
+      "brand": "放弃(Fangqi)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4c8f03f98391e9a6ad41053d1c9b0d006f848a4d403f18acc12f3d5b8bb7be25",
+      "content": {
+        "primary_entity": "放弃(Fangqi)",
+        "keyword1": "放弃(Fangqi)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "按需选套餐，在对应设备配置订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "开始选择适合的套餐",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档订阅，覆盖月付与年付，流量从100GB到1000GB，设备数从3台到20台，旗舰版含IPLC专线游戏加速优化，团队版支持企业定制路由，按设备选择客户端并导入订阅即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、3台设备，适合个人轻度使用；旗舰版每月300GB、5台设备，含IPLC专线和流媒体解锁；团队版每月1000GB、20台设备，适合多人协作。",
+          "AI_FAQ_ANSWER_2": "可以，三档套餐均提供月付和年付选项，年付价格为月付的十倍左右，例如基础版年付150元，旗舰版年付350元，团队版年付850元。",
+          "AI_FAQ_ANSWER_3": "根据设备系统选择对应客户端，扫描或复制订阅链接后导入，更新节点后即可连接。不同客户端的具体操作步骤可参考对应文档。",
+          "AI_FAQ_ANSWER_4": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。如果需要更多设备，建议选择团队版或按需升级。",
+          "AI_FAQ_ANSWER_5": "旗舰版和团队版用户可获得优先工单支持，团队版还配有专属客户经理。日常使用问题可先查阅客户端文档中的常见操作说明。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐分别适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "可以按月支付吗？年付有什么差异？",
+          "AI_FAQ_QUESTION_3": "如何在设备上导入订阅？",
+          "AI_FAQ_QUESTION_4": "套餐对同时在线设备数量有限制吗？",
+          "AI_FAQ_QUESTION_5": "遇到使用问题如何获得支持？",
+          "AI_FAQ_TITLE": "常见使用问题",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求到订阅周期，三点帮助快速判断。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版适合轻度个人使用，旗舰版覆盖流媒体与游戏加速，团队版面向多设备协作。",
+          "AI_FEATURE_TEXT_2": "基础版3台、旗舰版5台、团队版20台设备同时在线，按常用终端数量选择更合适。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，基础版年付150元、旗舰版350元、团队版850元，可按使用时长规划。",
+          "AI_FEATURE_TITLE_1": "按需选套餐",
+          "AI_FEATURE_TITLE_2": "匹配设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "三步完成选择与配置，先确定套餐，再匹配设备，最后导入订阅。",
+          "AI_GUIDE_TITLE": "选择与配置步骤",
+          "AI_HERO_INTRO": "放弃(Fangqi)提供多档海外加速订阅，流量与设备数按需匹配，旗舰版含IPLC专线优化，团队版支持企业定制路由，按设备选择客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档订阅，按设备导入即用",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线加速",
+          "AI_HIGHLIGHT_3": "月付年付灵活选择",
+          "AI_PLANS_INTRO": "基础版每月100GB适合个人，旗舰版每月300GB含IPLC专线，团队版每月1000GB支持20台设备，年付更省。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据使用场景和流量需求，在基础版、旗舰版、团队版中选择合适的订阅。",
+          "AI_STEP_TEXT_2": "查看套餐的设备数量与系统要求，确认常用设备是否在支持范围内。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅链接，更新节点后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅导入",
+          "AI_VISUAL_TITLE": "适合你的加速订阅"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "6a5caihyh1.cn",
+    "host": "6a5caihyh1.cn"
+  },
+  "file_hashes": {
+    "index.html": "7321e1d8646043baeb763372b67c3f1f655eef6c0fdc09d1e08483367d6ddf09",
+    "sitemap.xml": "36e5f010b3063ff1de2c59f1b7d59ee6a6e60ec7ddd0a8af75831ab60926ae41",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8ce3d44755c0c678585b64785b7a458f002375be88afa3f301d994f6f346c170",
+    "robots.txt": "75c851aada072823eb10866a8ade9e959ac670e32881ecbac113a7749909a731",
+    "b091d4360a6f6d955d9ef301cd3911c5.txt": "f2fd37a237af78881a49cb24b3584e6d4507f11052cb22f856c07d27a2c18689"
+  },
+  "revision": "e0a1b39a3e1f2d10a7eecb2d863ff3d5255fbfe7b4c54c0339f843d53bb9802a"
+}
